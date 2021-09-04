@@ -1,0 +1,12 @@
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\bin\Debug\net5.0\SynectecAssessment.Contract.deps.json
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\bin\Debug\net5.0\SynectecAssessment.Contract.dll
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\bin\Debug\net5.0\ref\SynectecAssessment.Contract.dll
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\bin\Debug\net5.0\SynectecAssessment.Contract.pdb
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\obj\Debug\net5.0\SynectecAssessment.Contract.csproj.AssemblyReference.cache
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\obj\Debug\net5.0\SynectecAssessment.Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\obj\Debug\net5.0\SynectecAssessment.Contract.AssemblyInfoInputs.cache
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\obj\Debug\net5.0\SynectecAssessment.Contract.AssemblyInfo.cs
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\obj\Debug\net5.0\SynectecAssessment.Contract.csproj.CoreCompileInputs.cache
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\obj\Debug\net5.0\SynectecAssessment.Contract.dll
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\obj\Debug\net5.0\ref\SynectecAssessment.Contract.dll
+F:\Prashant\Pract\synetec-assessment-api-prashant\SynectecAssessment.Contract\obj\Debug\net5.0\SynectecAssessment.Contract.pdb
