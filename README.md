@@ -1,7 +1,7 @@
 Following is the things I have incorporated in the assesment
-1) Modified the project folder structire 
-    API(controlers),
-    Contract(for the Dto),
+1) Modified the project folder structure 
+    API( Defined Controllers, Extensioners),
+    Contract(Added the Dto),
     Core (Added the service mappers to map the entity and DTO model),
     Data (To get and save the data in the Database,models)
     Test
